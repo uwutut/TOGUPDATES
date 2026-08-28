@@ -64,7 +64,7 @@ const updates = [
     date: "2026-08-04",
     type: "패치",
     title: "연 이랑 스킬 및 업데이트 내용",
-    new: true,
+    new: false,
     content: [
         {
             title: "연 이랑 스킨",
